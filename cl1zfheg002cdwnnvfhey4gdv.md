@@ -53,7 +53,7 @@ I know. I know.
 
 EVERY DAY?!?!
 
-Yes, every day. Or at least as close to as every day as possible. Things happen. I get that.
+Yes, every day. Or at least as close to every day as possible. Things happen. I get that.
 
 I've got a young child and work a full-time job, so I know finding time can be hard.
 
