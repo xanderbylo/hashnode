@@ -79,7 +79,7 @@ Yes, I spent a lot of time thinking about the problems first. And after googling
 
 And who cares? Developers do it allllllll the time.
 
-And don't just take my word for it... [Danny Thompson](https://twitter.com/DThompsonDev) does it too:
+And don't just take my word for it... [@[Danny Thompson](@DThompsonDev)](https://twitter.com/DThompsonDev) does it too:
 
 %[https://twitter.com/DThompsonDev/status/1513140993662496770?s=20&t=oHRhw3vfdS6aiQTfZEpJlA]
 
